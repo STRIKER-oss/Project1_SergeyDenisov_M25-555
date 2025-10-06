@@ -1,9 +1,9 @@
 [project]
 name = "project1-denisovsergey-m25-555"
 version = "0.1.0"
-description = ""
+description = "Текстовая adventure игра 'Лабиринт сокровищ'"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Sergey Denisov",email = "sergey1999den@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
